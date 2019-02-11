@@ -5,3 +5,5 @@ it supports given service providers...
 2.Outllok,
 3.Hotmail,
 4.Yahoo
+
+CLI & GUI both versions are given
